@@ -1,4 +1,4 @@
-# Hi there, I'm Sirine Sioud 👋 🌊🤖
+# Hi there, I'm Sirine Sioud 👋 🌊
 
 **Mechatronics & Robotics Software Engineer** based in Tunis, Tunisia.  
 Student at the **National Engineering School of Carthage (ENICarthage)** specializing in subsea robotics, real-time telemetry pipelines, and embedded firmware.
@@ -26,7 +26,7 @@ Student at the **National Engineering School of Carthage (ENICarthage)** special
 
 - 🌊 **[Subsea Pipeline Inspection ROV (Sim-to-Real)](https://github.com/sirinesioud-hash/ROV_Conception_and_simulation):** Full end-to-end ROV stack featuring Gazebo Harmonic subsea physics, ROS 2 nodes, georeferenced defect logging, and micro-ROS on ESP32/RPi4.
 - 🌐 **Open-Source Contribution ([IOES-Lab/dave](https://github.com/IOES-Lab/dave)):** Authored upstream Docker fix for ArduSub plugin path resolution (PR #50).
-- ⏱️ **STM32 Weather Station with Hierarchical Interrupts:** NVIC priority-preempted embedded system on STM32 Nucleo-64 interfacing BMP180 and analog light watchdogs.
+-  **STM32 Weather Station with Hierarchical Interrupts:** NVIC priority-preempted embedded system on STM32 Nucleo-64 interfacing BMP180 and analog light watchdogs.
 
 ---
 
